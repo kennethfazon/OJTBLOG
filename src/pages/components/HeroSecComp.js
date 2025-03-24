@@ -65,7 +65,7 @@ export default function EventsActivitiesSection() {
     },
     {
       id: 2,
-      title: "Building the Backend of a Simple Website",
+      title: "Backend Development",
       description: "Developed the server-side logic and database integration for a functional website.",
       time: "9:00 AM - 4:00 PM",
       location: "Immunization Center",
@@ -75,7 +75,7 @@ export default function EventsActivitiesSection() {
     },
     {
       id: 3,
-      title: "Building the Frontend of a Simple Website",
+      title: "Frontend Development",
       description: " Designed and implemented the user interface to ensure a seamless user experience.",
       time: "1:00 PM - 5:00 PM",
       location: "Conference Room",
@@ -91,7 +91,7 @@ export default function EventsActivitiesSection() {
       time: "1:00 PM - 5:00 PM",
       location: "Conference Room",
       category: "Week 9",
-      image: "/graphics/a.jpg",
+      image: "/graphics/d.jpg",
       participants: "100 slots",
      
     },
